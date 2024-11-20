@@ -32,9 +32,8 @@ Implemented using Apache TomCat, basic html frontend with p5.js integration, and
 
 <a href="https://github.com/DenisMistrikUSC/Personal/tree/main/SketchSC">Repository Link</a> 
 
-
-<iframe src="https://drive.google.com/file/d/1nUVJBlB4Cgj1-LECoIpvSNTAdJpHIf1b/view?usp=sharing" ></iframe>
-
+<a href="https://drive.google.com/file/d/1nUVJBlB4Cgj1-LECoIpvSNTAdJpHIf1b/view?usp=sharing">Demonstration Video Link</a> 
+<img src="images/pictionary.png"/>
 
 ### Historic Financial Data API
 
