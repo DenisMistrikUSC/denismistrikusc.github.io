@@ -1,4 +1,4 @@
-## Projects
+## Portfolio
 
 ### 1v1 Moba Style Game with ChatGPT Integration
 
@@ -18,6 +18,8 @@ can place on the battlefield that will then battle it out with the enemy
 Implemented custom flow field logic for navigation to ensure performance and consistency.
 
 Integrated a ChatGPT AI enemy, which is prompted with the game state and will decide what units to place if it has the resources for it
+
+(Work in Progress)
 
 ### Map Based Delivery Concept
 
