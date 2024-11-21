@@ -6,6 +6,10 @@ This game features the standard midlane setup found in games such as Dota 2 or L
 The player has 4 unique abilities to choose from and has to face an AI that uses advanced heuristics which 
 are weighted by ChatGPT API calls and its game state analysis
 
+<a href="https://mistrik.itch.io/mobagpt">[PLAY HERE]</a>
+
+<img src="images/moba.png"/>
+
 ### Clash Royale Style card game battler with ChatGPT Integration
 
 This game features two lanes with two towers and a base, the player is given a deck of poker themed cards that they 
