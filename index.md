@@ -19,7 +19,8 @@ Implemented custom flow field logic for navigation to ensure performance and con
 
 Integrated a ChatGPT AI enemy, which is prompted with the game state and will decide what units to place if it has the resources for it
 
-(Work in Progress)
+<a href="https://mistrik.itch.io/card-battler-with-chatgpt-enemy">[PLAY HERE]</a>
+
 
 ### Map Based Delivery Concept
 
