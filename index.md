@@ -1,5 +1,13 @@
 ## Portfolio
 
+### Visual maze solver Genetic Algorithm 
+
+This python library utilizes tkinter to create a GUI and a canvas to visualize how a simple genetic algorithm would traverse a specific maze. Comes with various customizable variables, such as mutation rate, generation size, sequence length etc. Once the algorithm successfully reaches its goal node, the user will be prompted with the ability to graph various statistics relating to the genetic algorithm.
+
+WIP : Advanced Genetic Agent
+
+<a href="https://github.com/DenisMistrikUSC/PythonGeneticAlgorithmMaze">Repository Link</a> 
+
 ### 1v1 Moba Style Game with ChatGPT Integration
 
 This game features the standard midlane setup found in games such as Dota 2 or League of Legends.
