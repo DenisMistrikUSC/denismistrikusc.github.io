@@ -49,10 +49,3 @@ Implemented using Apache TomCat, basic html frontend with p5.js integration, and
 
 <a href="https://drive.google.com/file/d/1nUVJBlB4Cgj1-LECoIpvSNTAdJpHIf1b/view?usp=sharing">Demonstration Video Link</a> 
 <img src="images/pictionary.png"/>
-
-### Historic Financial Data API
-
-Developed in collaboration with Daniel Mistrik, gives a simple way of getting relevant information based on a given
-company's stock ticker. Queries the SEC API, which is complicated, and refactors the data into an easily accessible and callable format. 
-
-<a href="https://github.com/DanielMistrik/HistoricFinancialData">Repository Link</a> 
