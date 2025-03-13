@@ -2,17 +2,17 @@
 
 ---
 
-### Filings Visualized (filingsvisualized.com)
+### Filings Visualized
 
 A full-stack comprehensive graphing, visualization, and data analysis tool for SEC corporate filings. Includes the ability to create your own custom dashboard of SEC data, from all available years, and have up to 5 companies compared at one time in a Google trends style view. 
 
-Additionally you can perform aggregate data science with PCA dimension reducation and HDBSCAN clustering.
+Additionally you can perform aggregate data science with PCA dimension reduction and HDBSCAN clustering.
 
 Runs on its own dedicated VPS with a custom SQL database I populated from raw SEC EDGAR data. 
 
-Available at filingsvisualized.com
+Available at <a href="https://filingsvisualized.com/">[filingsvisualized.com]</a>
 
-<img src="images/filingsvisualized.png"/>
+<img src="images/filingsvisualized.PNG"/>
 
 ---
 
@@ -20,10 +20,9 @@ Available at filingsvisualized.com
 
 This python library utilizes tkinter to create a GUI and a canvas to visualize how a simple genetic algorithm would traverse a specific maze. Comes with various customizable variables, such as mutation rate, generation size, sequence length etc. Once the algorithm successfully reaches its goal node, the user will be prompted with the ability to graph various statistics relating to the genetic algorithm.
 
----
-
 <a href="https://github.com/DenisMistrikUSC/PythonGeneticAlgorithmMaze">Repository Link</a> 
 
+---
 ### 1v1 Moba Style Game with ChatGPT Integration
 
 This game features the standard midlane setup found in games such as Dota 2 or League of Legends.
