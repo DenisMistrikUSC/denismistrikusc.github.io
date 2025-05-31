@@ -4,7 +4,7 @@
 
 ### Filings Visualized
 
-A full-stack comprehensive graphing, visualization, and data analysis tool for SEC corporate filings. Includes the ability to create your own custom dashboard of SEC data, from all available years, and have up to 5 companies compared at one time in a Google trends style view. 
+A full-stack comprehensive graphing, visualization, and data analysis tool for SEC corporate filings. Includes the ability to create your own custom dashboard of SEC data, from all available years, and have up to 5 companies compared at one time.
 
 Additionally you can perform aggregate data science with PCA dimension reduction and HDBSCAN clustering.
 
